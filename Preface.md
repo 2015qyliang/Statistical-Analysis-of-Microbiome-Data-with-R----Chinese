@@ -45,6 +45,9 @@ Dr. Sun和Dr. Xia长期在微生物组研究相关的生物医药领域合作。
 ### 本书的主创团队：
 
 Yinglin Xia 	Chicago, IL, USA
+
 Jun Sun 	Chicago, IL, USA
+
 Ding-Geng Chen 	North Carolina, NC, USA
+
 *June, 2018*

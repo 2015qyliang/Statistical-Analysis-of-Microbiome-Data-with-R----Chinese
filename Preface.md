@@ -40,7 +40,7 @@ Dr. Sun和Dr. Xia长期在微生物组研究相关的生物医药领域合作。
 
 我们希望这些章节的内容和组织结构可以为微生物组数据的统计分析提供一个清晰的框架。
 我们希望此书可以被微生物组研究相关的统计分析人员、微生物和生物医药领域的科研人员以及其他相关的科研工作者（生物信息学、生态学、微阵列、环境学等）所应用。
-本书中使用的数据以及R代码可以联系Yinglin Xia<yinglin.xia2007@gmail.com>获得。
+本书中使用的数据以及R代码可以联系Yinglin Xia <yinglin.xia2007@gmail.com>获得。
 
 ### 本书的主创团队：
 
@@ -51,3 +51,7 @@ Jun Sun 	Chicago, IL, USA
 Ding-Geng Chen 	North Carolina, NC, USA
 
 *June, 2018*
+
+### 本书的译者：
+
+梁其云 山东大学  威海
